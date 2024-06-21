@@ -1,0 +1,7 @@
+{
+<<<<<<< HEAD
+  "extends": ["next", "next/core-web-vitals", "prettier"]
+=======
+  "extends": "next/core-web-vitals"
+>>>>>>> 9934ae0 (Initial commit from Create Next App)
+}
